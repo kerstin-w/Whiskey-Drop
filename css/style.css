@@ -193,3 +193,17 @@ body {
     margin-top: 10px;
     color: #f05f40;
 }
+
+.monthly-favorites .page-header {
+    margin-bottom: 25px;
+}
+
+.thead--red {
+    background-color: #f05f40;
+    color: white;
+    font-weight: bold;
+}
+
+.favorites-container {
+    width: 50vw;
+}
